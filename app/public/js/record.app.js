@@ -3,7 +3,7 @@ var patientRecordsApp = new Vue({
   data: {
     patients: [],
     recordPatient: {},
-    filter:{
+    filter: {
       sab: ''
     }
   },
